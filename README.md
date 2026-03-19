@@ -1,1 +1,0 @@
-# gatespot-bot-v3
